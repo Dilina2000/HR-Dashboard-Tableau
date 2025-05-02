@@ -24,6 +24,9 @@ A snapshot of the company's current status:
 **Highlights**:  
 Operations and Sales are the largest departments. New York (HQ) accounts for 70% of the workforce, clearly the company’s hub. Hiring rates fluctuate annually, while termination trends are relatively stable.
 
+![map](https://github.com/user-attachments/assets/85b0b315-b952-42be-b667-ee8b6dfa663b)
+
+
 ---
 
 ### 🧑‍🤝‍🧑 Demographics
@@ -66,6 +69,7 @@ Before building the dashboard, I mapped out the layout using a mockup created in
 ### 🔍 Mockup Preview
 
 
+![Mockup](https://github.com/user-attachments/assets/623fea1c-7b60-4806-9a94-fc62f3e14f0d)
 
 
 The layout includes:
@@ -76,6 +80,6 @@ The layout includes:
 
 
 ---
-
+You can Open the Tableau dashboard file and Explore different sections to answer HR-related questions using interactive elements.
 
 Thanks for stopping by!
